@@ -1,0 +1,27 @@
+html {
+  font-family: 'Inter', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  width: min(90%, 700px);
+  margin: 0 auto 50px;
+}
+
+.heading {
+  margin: 50px 0;
+}
+
+.heading p {
+  margin: 5px 0;
+  padding: 0;
+}
+
+.heading p span {
+  font-weight: bold;
+}
+
+img {
+  max-width: 100%;
+}
